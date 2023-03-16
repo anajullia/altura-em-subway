@@ -5,7 +5,7 @@
 }
 
 .inputbase1{
-    
+    margin: 15px;
     font-size: 30px;
     text-align: center;
     font-family: Impact;
@@ -15,7 +15,21 @@
     margin: 5px;
 }
 
+.h2base{
+    font-family: Verdana;
+}
+
+.butbase{
+    margin: 35px;
+    font-family: Verdana;
+    text-align: center;
+    font-size: 25px;
+    width: 130px;
+    height: 45px;
+}
+
 .radiosbase{
+    margin: 15px;
     font-family: Impact;
     font-size: 40px;
     width: 50px;
@@ -25,4 +39,8 @@
 
 .coisas{
     margin-top: 150px;
+}
+
+.body{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/013/632/966/original/hot-dog-on-a-white-red-retro-background-illustration-bun-with-sausage-ketchup-favorite-snack-lunch-time-hearty-fast-food-instead-of-soup-and-a-full-meal-vector.jpg');
 }
